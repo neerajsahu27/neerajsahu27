@@ -35,10 +35,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/neerajsahu27/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="35" width="35" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://www.instagram.com/neeraj_s.ahu/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="35" width="35" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="30" />
   </a>
 </p>
 
