@@ -32,16 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajsahu23&show_icons=true&theme=radical" alt="neerajsahu23 stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsahu23&layout=compact&theme=radical" alt="neerajsahu23 languages"/>
-</p>
-
----
-
 ### 🔗 Let's Connect:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/neerajsahu27/)
